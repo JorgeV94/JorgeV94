@@ -5,6 +5,9 @@ Olá sou Jorge Vieira
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeV94&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeV94)](https://github.com/JorgeV94/github-readme-stats)
+
+
 <!--
 Here are some ideas to get you started:
 
