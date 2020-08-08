@@ -1,8 +1,11 @@
-### Hi there 👋
+# Jorge Vieira 
 
 [![Linkedin Badge](https://img.shields.io/badge/-JorgeVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-vieira-alves/)](https://www.linkedin.com/in/jorge-vieira-alves/) 
 
-Olá sou Jorge Vieira
+
+## Olá/Hi there 👋, 
+
+Sou Jorge Vieira
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeV94&show_icons=true&theme=radical)
