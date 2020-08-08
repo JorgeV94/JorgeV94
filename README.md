@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 Olá sou Jorge Vieira
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeV94&show_icons=true&theme=radical)
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
