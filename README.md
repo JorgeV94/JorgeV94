@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-JorgeVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-vieira-alves/)](https://www.linkedin.com/in/jorge-vieira-alves/) 
+
 Olá sou Jorge Vieira
 
 
