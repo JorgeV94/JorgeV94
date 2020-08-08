@@ -5,7 +5,9 @@
 
 ## Olá/Hi there 👋, 
 
-Sou Jorge Vieira
+Sou Jorge Vieira, formado em ciências da computação e apaixonado por novas tecnologias. Engenheiro de Software se especializando em teste de software nas escolas Iterasys e QaNinja. Com estudos em andamento também em engenharia de software ágil no instituto IGTI. Rumo ao full-stack em teste de software!!
+
+I'm Jorge Vieira, graduated in computer science and passionate about new technologies. Software Engineer specializing in software testing at Iterasys and QaNinja schools. With studies in progress also in agile software engineering at the IGTI institute. Towards full-stack software testing !!
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeV94&show_icons=true&theme=radical)
