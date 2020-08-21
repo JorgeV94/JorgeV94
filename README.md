@@ -1,6 +1,7 @@
 # Jorge Vieira 
 
-[![Linkedin Badge](https://img.shields.io/badge/-JorgeVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-vieira-alves/)](https://www.linkedin.com/in/jorge-vieira-alves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-JorgeVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-vieira-alves/)](https://www.linkedin.com/in/jorge-vieira-alves/) [![Medium Badge](https://img.shields.io/badge/-@jorgeVieiraA-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jorgeVieiraA/)](https://medium.com/@jorgeVieiraA/)
+
 
 
 ## Olá/Hi there 👋, 
